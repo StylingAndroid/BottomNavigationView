@@ -22,7 +22,7 @@ android {
 dependencies {
     compile 'com.android.support:appcompat-v7:25.0.0'
     compile 'com.android.support:design:25.0.0'
-    compile 'com.android.support.constraint:constraint-layout:1.0.0-beta1'
+    compile 'com.android.support.constraint:constraint-layout:1.0.0-beta2'
 }
 
 apply from: '../config/static_analysis.gradle'
